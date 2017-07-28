@@ -1,14 +1,7 @@
-/*
-    Theme Name: Delicious
-    Theme URL: https://bootstrapmade.com/delicious-free-restaurant-bootstrap-theme/
-    Author: BootstrapMade.com
-    Author URL: https://bootstrapmade.com
-*/
-
 body {
 	font-size: 15px;
     line-height: 1.52;
-    color: #717f86;
+    color: #f44336;
     font-size: 16px;
 	font-family: 'Open Sans', sans-serif;
     font-weight: 400;
@@ -30,9 +23,9 @@ table {
 	border-spacing: 0;
 }
 #banner{
-    background: url(../img/banner-bg.jpg) no-repeat center top;
+    background: url(../img/banner2.jpeg) no-repeat center top;
     background-size: cover;
-    min-height: 630px;
+    min-height: 649px;
 }
 .bg-color{
     background-color: RGBA(0, 0, 0, 0.61);
@@ -41,7 +34,7 @@ table {
 #banner h2{
     font-family: 'Satisfy', sans-serif;
     font-size: 45px;
-    color: #FFB03B;
+    color: #ffc107;
 }
 #banner p{
     font-family: 'PT Sans', sans-serif;
@@ -50,12 +43,13 @@ table {
 }
 .section-padding{
     padding: 60px 0px;
+    background: rgba(255, 87, 34, 0.3);
 }
 .logo-name{
     font-family: 'Satisfy', sans-serif;
     font-size: 65px;
     margin-top: 140px;
-    color: #FFB03B;
+    color: #f44336;
 }
 .sidenav {
     height: 100%;
@@ -100,7 +94,7 @@ table {
 }
 
 .header-h {
-    color: #FFB03B;
+    color: #f44336;
     font-size: 46px;
     font-family: 'Satisfy', sans-serif;
     font-weight: 300;
@@ -272,7 +266,7 @@ table {
     border-radius: 2px;
 }
 #event{
-    background: url('../img/res02.jpg') no-repeat;
+    background: url('../img/catering.jpeg') no-repeat;
     background-size: cover;
 }
 .left-images img {
@@ -338,7 +332,7 @@ table {
     font-family: Montserrat,arial;
     text-transform: uppercase;
     letter-spacing: 1px;
-    color: #FFB03B;
+    color: #F44336;
 }
 .menu-restaurant .menu-line {
     position: absolute;
@@ -356,9 +350,9 @@ table {
 .menu-restaurant .menu-subtitle {
     display: block;
     float: left;
-    color: #B1B1B1;
+    color: black;
     font-family: Satisfy,'Open Sans',arial;
-    font-size: 1.2rem;
+    font-size: 2rem;
 }
 .menu-restaurant span.clearfix {
     position: relative;

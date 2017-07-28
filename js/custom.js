@@ -7,10 +7,8 @@ function closeNav() {
 }
 
 (function ($) {
-    // Instantiate MixItUp:
     $('#Container').mixItUp();
 
-    // Add smooth scrolling to all links in navbar + footer link
     $(".sidenav a").on('click', function(event) {
         var hash = this.hash;
         if( hash ) {
